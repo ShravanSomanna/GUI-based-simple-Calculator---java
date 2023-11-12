@@ -1,6 +1,6 @@
 A GUI based calculator using swing and awt
 
-![screenshot of output](Calci_Output_img.png)
+![](Calci_Output_img.png)
 
 
 
