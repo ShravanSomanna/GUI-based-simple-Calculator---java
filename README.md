@@ -5,6 +5,7 @@ module calciProject {
 	requires java.desktop;
 }
 
+<img src="Calci_Output_img.png" width="100">
 ![](Calci_Output_img.png)
 
 
