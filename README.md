@@ -5,7 +5,7 @@ module calciProject {
 	requires java.desktop;
 }
 
-![Image](./Calci_Output_img.png)
+![Image](img.png)
 
 
 
