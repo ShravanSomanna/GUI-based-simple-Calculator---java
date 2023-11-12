@@ -1,6 +1,6 @@
 A GUI based calculator using swing and awt
 
-![screenshot of output](/repository/Calci_Output_img.png?raw=true "output Screenshot")
+![screenshot of output](/Calci_Output_img.png?raw=true "output Screenshot")
 
 
 
